@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSubstitueWithDbSet", "NSubstitueWithDbSet\NSubstitueWithDbSet.csproj", "{847B07FD-112D-457B-833E-E1B1B0F9350F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSubstitueWithDbSetTests", "NSubstitueWithDbSetTests\NSubstitueWithDbSetTests.csproj", "{7F5FFA7C-B0A0-4783-AB0D-97608C4D642D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847B07FD-112D-457B-833E-E1B1B0F9350F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847B07FD-112D-457B-833E-E1B1B0F9350F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847B07FD-112D-457B-833E-E1B1B0F9350F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847B07FD-112D-457B-833E-E1B1B0F9350F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F5FFA7C-B0A0-4783-AB0D-97608C4D642D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5FFA7C-B0A0-4783-AB0D-97608C4D642D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5FFA7C-B0A0-4783-AB0D-97608C4D642D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5FFA7C-B0A0-4783-AB0D-97608C4D642D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE447E0-862A-40BA-B208-D0B815505F01}
+	EndGlobalSection
+EndGlobal
